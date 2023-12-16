@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zebcommerce/static/css/main.63079784.css",
+    "main.js": "/zebcommerce/static/js/main.31fe27ef.js",
+    "static/js/787.c875205c.chunk.js": "/zebcommerce/static/js/787.c875205c.chunk.js",
+    "index.html": "/zebcommerce/index.html",
+    "main.63079784.css.map": "/zebcommerce/static/css/main.63079784.css.map",
+    "main.31fe27ef.js.map": "/zebcommerce/static/js/main.31fe27ef.js.map",
+    "787.c875205c.chunk.js.map": "/zebcommerce/static/js/787.c875205c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63079784.css",
+    "static/js/main.31fe27ef.js"
+  ]
+}
